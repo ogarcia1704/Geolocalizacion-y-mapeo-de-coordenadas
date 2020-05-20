@@ -70,5 +70,26 @@ Folium es una librería que requiere la instalación de un par de herramientas, 
 •	Necesitamos, en primer lugar, Python y su manejador de paquetes PIP.
 •	También necesitamos instalar Jupyter, que es un entorno o una shell que nos permite escribir las instrucciones en Python y ver los resultados en Leaflet. 
 
+2. 	Desarrollo Experimental
+
+Se busca que el programa obtenga las coorde-nadas del lugar deseado por el usuario. Para lo cual se requiere que el usuario ingrese el lugar a buscar acomodado de la siguiente manera: Lugar, Municipio, Estado, País. Esto para que cuando el programa lo lea pueda identificar el lugar correcto y no solo se deje guiar por el nombre y nos arroje el nombre de una calle, avenida o centros comerciales. De esta manera primero solicitamos entonces el lugar deseado, de la siguiente manera con la función geo. geocode se obtendrá la latitud y longitud, pos-teriormente con el DATETIME nos arrojará la fecha y la hora de la consulta.
+Así mismo con el csvsalida estamos creando un CSV delimitado por comas que llevara el nom-bre que usted desee donde se insertaran los datos ya vistos. (Nombre del lugar, coordena-das, fecha y hora). También en esa misma línea de código le ponemos el nombre que nosotros queramos a las celdas que aparecerán.
+Y finalmente con la librería Folium vamos a crear el mapa de la latitud y longitud que el usuario tecleo y el mapa se guardara con termi-nación html con el nombre que desee.
+
+![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Geolocalizacion-y-mapeo-de-coordenadas/blob/master/Imagenes/3.jpg)
+
+3. 	Manejo de datos.
+
+A continuación, se proporcionará los datos de los aspectos en los que fue probado el pro-grama.
+
+3.1. 	Tipo de datos
+
+El tipo de datos que se manejan en el programa son:
+•	Datos geoespaciales: debido a que el usuario proporciona el nombre del lugar del cual quiere saber las coordenadas.
+•	Datos numéricos: este tipo de datos pertenecen a lo que es las coordenadas del lugar, así como también el día y la fecha que se realizó la consulta.
+•	Sistemas de Información Geográfica: Esto es utilizado para visualizar los re-sultados es decir la ubicación exacta del lugar que se buscó. 
+
+
+
 
 
