@@ -26,4 +26,4 @@ Un sistema de geolocalización es una solución de la tecnología de la informac
 Los servicios de software de geolocalización se utilizan para apoyar los objetivos del negocio de las empresas públicas y privadas.
 Para obtener la ubicación geográfica aproxima-da de un smartphone se utiliza un sistema de posicionamiento global. El sistema está forma-do por una red de satélites geoestacionarios que dan cobertura a toda la Tierra. Para obtener la ubicación el dispositivo se conecta como mínimo con 3 satélites, de estos satélites recibe un identificador y la hora de cada uno ellos. El dispositivo calcula el tiempo que tarda en llegar la señal desde los satélites y gracias al retardo o delay resultante se obtiene la ubicación por medio de la triangulación.
 
-![PalabrasdelTextoAlternativo] (https://github.com/ogarcia1704/Geolocalizacion-y-mapeo-de-coordenadas/blob/master/Imagenes/1.jpg)
+! [PalabrasdelTextoAlternativo] (https://github.com/ogarcia1704/Geolocalizacion-y-mapeo-de-coordenadas/blob/master/Imagenes/1.jpg)
