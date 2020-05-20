@@ -85,9 +85,49 @@ A continuación, se proporcionará los datos de los aspectos en los que fue prob
 3.1. 	Tipo de datos
 
 El tipo de datos que se manejan en el programa son:
+
 •	Datos geoespaciales: debido a que el usuario proporciona el nombre del lugar del cual quiere saber las coordenadas.
+
 •	Datos numéricos: este tipo de datos pertenecen a lo que es las coordenadas del lugar, así como también el día y la fecha que se realizó la consulta.
+
 •	Sistemas de Información Geográfica: Esto es utilizado para visualizar los re-sultados es decir la ubicación exacta del lugar que se buscó. 
+
+3.2. 	Sistema operativo.
+
+El programa esta diseñado para trabajar en el Sistema Operativo Windows y también una ver-sión de Python 3.0 o superior.
+
+3.3. 	Equipo de prueba.
+
+El equipo en el cual fue probado el programa es una computadora portátil de la marca HP con las siguientes características:
+
+![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Geolocalizacion-y-mapeo-de-coordenadas/blob/master/Imagenes/4.jpg)
+
+Figura 4.-  Especificaciones del dispositivo.
+
+![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Geolocalizacion-y-mapeo-de-coordenadas/blob/master/Imagenes/5.jpg)
+
+Figura 5.- Especificaciones de Windows
+
+4. 	Resultados
+
+Lo que se logro obtener con el código fue un programa en el cual se teclee el nombre de un lugar ya sea pueblo, ciudad, rancho, etc. Con lo anterior, se genera las coordenadas de dicho lugar (Latitud y Longitud) mediante la librería de GEOPY y mediante la librería DATETIME se genera la hora y fecha de la consulta, obtenien-do un archivo CSV (delimitado por comas) con la información recabada y creando el mapa HTML con las coordenadas del lugar.
+
+![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Geolocalizacion-y-mapeo-de-coordenadas/blob/master/Imagenes/6.jpg)
+
+Figura 6.- Coordenadas del lugar.
+
+![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Geolocalizacion-y-mapeo-de-coordenadas/blob/master/Imagenes/7.jpg)
+
+Figura 7.- Archivo CSV(delimitado por comas) creado.
+
+![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Geolocalizacion-y-mapeo-de-coordenadas/blob/master/Imagenes/8.jpg)
+
+Figura 8.- Mapa creado con las coordenadas.
+
+5. 	Conclusiones.
+
+El lenguaje de programación Python puede ser utilizado para trabajar con Sistemas de Informa-ción Geográfica ya que facilita la realización de diversas tareas de ellos. Un ejemplo de lo ante-rior es el programa explicado a lo largo de este artículo, el cual se aplica al área de geolocaliza-ción. Este programa facilita al usuario conocer las coordenadas de dicho lugar y la ubicación exacta del mismo para posteriormente hacer la construcción o cualquier estudio del lugar y finalmente que quede guardado para su estudio posterior. Las expectativas que se tenían de este programa se cumplieron, ya que se logra de manera eficiente y sistematizada la geoloca-lización del lugar ahorrando tiempo, dinero y personal. El resultado que se proporciona es únicamente coordenadas angulares. Sin embar-go, se podría manejar una tercera coordenada que sería “z” y así quedaría aun mas exacto nuestro punto resolviendo así infinidad de si-tuaciones, no solo enfocado a la construcción.
+
 
 
 
