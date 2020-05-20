@@ -129,7 +129,11 @@ Figura 8.- Mapa creado con las coordenadas.
 El lenguaje de programación Python puede ser utilizado para trabajar con Sistemas de Informa-ción Geográfica ya que facilita la realización de diversas tareas de ellos. Un ejemplo de lo ante-rior es el programa explicado a lo largo de este artículo, el cual se aplica al área de geolocaliza-ción. Este programa facilita al usuario conocer las coordenadas de dicho lugar y la ubicación exacta del mismo para posteriormente hacer la construcción o cualquier estudio del lugar y finalmente que quede guardado para su estudio posterior. Las expectativas que se tenían de este programa se cumplieron, ya que se logra de manera eficiente y sistematizada la geoloca-lización del lugar ahorrando tiempo, dinero y personal. El resultado que se proporciona es únicamente coordenadas angulares. Sin embar-go, se podría manejar una tercera coordenada que sería “z” y así quedaría aun mas exacto nuestro punto resolviendo así infinidad de si-tuaciones, no solo enfocado a la construcción.
 
 
+6. 	Referencias.
+
+•	ISACA. (2020). Qué es la geolocaliza-ción y cómo funciona. 19/05/2000, de EvaluadoSoftware Sitio web: https://www.evaluandosoftware.com/la-geolocalizacion-funciona/
 
 
+•	Anónimo. (2016). Geolocalización: virtu-des y riesgos. 19/05/2020, de Oficina de Seguridad del Internauta Sitio web: htt ps://www.osi.es/es/actualidad/blog/2016/09/20/geolocalizacion-virtudes-y-riesgos
 
-
+•	Garcia, J.. (2015). Folium: utilizando Le-aflet con Python. 19/05/2020, de Map-pingGIS Sitio web: https://mappinggis.com/2018/10/folium-utilizando-leaflet-con-python 
