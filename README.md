@@ -19,17 +19,18 @@ The location of said place provided by the user will be accurately determined, r
 
 Keywords: Geolocation, Python, Geopy, Folium, Branca, Html, Csv, map.
 
-Introducción 
+1. Introducción.
 
 La geolocalización es una tecnología que utiliza datos obtenidos de la computadora o dispositi-vo móvil de un individuo para identificar o des-cribir su ubicación física real. Es una de las manifestaciones más populares del desarrollo actual de tecnologías de la información y recien-temente está experimentando un aumento signi-ficativo de popularidad.
 Un sistema de geolocalización es una solución de la tecnología de la información que determi-na la ubicación de un objeto en un entorno físi-co (geoespacial) o virtual (Internet). A menudo, el objeto es una persona que quiere utilizar un servicio basado en la ubicación, mientras man-tiene su privacidad.
 Los servicios de software de geolocalización se utilizan para apoyar los objetivos del negocio de las empresas públicas y privadas.
 Para obtener la ubicación geográfica aproxima-da de un smartphone se utiliza un sistema de posicionamiento global. El sistema está forma-do por una red de satélites geoestacionarios que dan cobertura a toda la Tierra. Para obtener la ubicación el dispositivo se conecta como mínimo con 3 satélites, de estos satélites recibe un identificador y la hora de cada uno ellos. El dispositivo calcula el tiempo que tarda en llegar la señal desde los satélites y gracias al retardo o delay resultante se obtiene la ubicación por medio de la triangulación.
 
+![PalabrasdelTextoAlternativo](https://github.com/ogarcia1704/Geolocalizacion-y-mapeo-de-coordenadas/blob/master/Imagenes/1.jpg)
+Figura 1.-  Ejemplo de la Geolocalizacion.
 
 
-
-Ventajas de la Geolocalización
+1.1. Ventajas de la Geolocalización.
 
 La geolocalización es una tecnología que nos ayuda a mejorar la eficiencia en muchos aspec-tos de nuestra vida cotidiana. Esta tecnología ofrece información en un doble sentido, noso-tros como usuarios nos beneficiamos de la información que nos facilita. Muchas tareas sin esta tecnología serían más complicadas de realizar como obtener la ruta más corta a nues-tro destino, o directamente imposibles como conocer el punto exacto dónde está el último paquete que hemos comprado por Internet, etc.
 Pero este flujo de información también viaja en sentido contrario, nosotros facilitamos informa-ción de manera constante sobre nuestra ubica-ción. Cuando publicamos en redes sociales utilizando la funcionalidad de geoposiciona-miento o cuando damos permisos a una app de nuestro smartphone para acceder a nuestra ubicación estamos facilitando información per-sonal sobre nuestros hábitos diarios relativos a rutas, lugares que visitamos o similar.
